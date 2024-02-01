@@ -1,0 +1,110 @@
+{
+  "8.15.0": [
+    "Adição do módulo de performance"
+  ],
+  "8.14.0": [
+    "Adição do módulo de questões fechadas na segunda fase;",
+    "Otimizações de performance no módulo de questões;",
+    "Funcionalidade de reportar conteúdo com problema;",
+    "Correção na usabilidade dos links de compartilhamento de conteúdo."
+  ],
+  "8.13.0": [
+    "Adição do modal de aviso de simulados sorteados;",
+    "Adição do modal de aviso de simulado em andamento;",
+    "Correções de usabilidade em modais de aviso no app."
+  ],
+  "8.12.0": [
+    "Adição do modo offline ao módulo de resumos;",
+    "Adição do modo offline ao módulo de quadros e modelos;",
+    "Responder gabarito em simulados online."
+  ],
+  "8.11.0": [
+    "Adição do modo offline ao módulo de Simulados;",
+    "Correção no fluxo de Filtros em Questões;",
+    "Correção no fluxo de Comentários em Vídeo em Questões."
+  ],
+  "8.10.0": [
+    "Abrir a partir da primeira questão não respondida em plano de estudo 300;",
+    "Correção visual ao aplicar zoom nas telas de resumos, quadros e modelos;"
+  ],
+  "8.9.0": [
+    "Adição do modo Offline ao módulo de Vade Mecum",
+    "Adição do plano de estudo 300 aos materiais",
+    "Correções de usabilidade para links externos"
+  ],
+  "8.8.0": [
+    "Adição do modo offline para o aplicativo OAB de Bolso! Você pode ativar essa funcionalidade clicando no canto superior esquerdo do menu principal!;",
+    "Questões comentadas primeira e segunda fase disponíveis para o modo offline;",
+    "Adição do módulo de perfil;",
+    "Alteração no fluxo interno do app: Agora os seus dados e o botão de logout ficam no módulo de Perfil, e não mais no módulo de Acesso Premium."
+  ],
+  "8.7.0": [
+    "Adição da tag de novos materiais para videos, complementares e cursos;",
+    "Adição de filtro por questões resolvidas na primeira fase;",
+    "Adição de novo comportamento nas boas vindas em smart coach, permitindo ao usuário arrastar a tela para navegar;",
+    "Adição de alerta de impedimento de criação de nova meta em metas diárias individuais caso tenha alguma inacabada;",
+    "Alteração na ordem dos módulos da home na primeira e segunda fase;",
+    "Remoção do filtro \"Possuem comentários\" das questões primeira fase;",
+    "Correção de bug no redirecionamento do usuário para a home quando há instabilidade na conexão."
+  ],
+  "8.6.0": [
+    "Melhorias no filtro de questões na primeira fase;",
+    "Correção na aparição do selo nas metas dos simulados online;",
+    "Correção no filtro por assunto em questões comentadas na segunda fase."
+  ],
+  "8.5.0": [
+    "Adição de filtro \"Mostrar apenas questões que eu errei\" em questões da primeira fase;",
+    "Adição de plano anual;",
+    "Ajustes gerais na interface do aplicativo;",
+    "Correção no registro de questões comentadas na primeira fase;",
+    "Correção de inconsistência na sessão do usuário."
+  ],
+  "8.4.0":[
+    "Adição de busca por leis no Vade Mecum",
+    "Melhorias gerais no estilo",
+    "Correção no link para os cursos",
+    "Ordenação por ordem alfabética nas Disciplinas, nos artigos e nas leis"
+ ],
+  "8.3.0": [
+    "Aumento da fonte geral do app;",
+    "Remoção do aviso de conexão lenta na tela de abertura do app;",
+    "Correção de controle para receber notificações de dicas;",
+    "Correção de inconsistência de desconexão dos usuários;",
+    "Correção de comentários em peças inéditas na segunda fase;",
+    "Correção da ordem dos editais em filtro de questões na primeira fase."
+  ],
+  "8.2.0": [
+    "Correção no filtro \"Questões não feitas\" em questões da primeira fase;",
+    "Correção no relatório de simulados online na seção de desenvolvimento;",
+    "Remoção dos assuntos no título das questões em simulados online;",
+    "Correções de erros gerais com base no feedback dos usuários na loja;",
+    "Correção de inconsistência na permissão para usuários premium."
+  ],
+  "8.1.0" : [
+    "Novo módulo de Simulados Passados disponível em Questões Comentadas da primeira fase;",
+    "Novo feedback para o usuário ao restaurar compras;",
+    "Melhoria na performance das questões em Questões Selecionadas e Planos de Estudo;",
+    "Melhoria na performance na tela das metas diárias na Smart Coach;",
+    "Redução no tempo de carregamento de Artigos;",
+    "Correção nos módulos de PDF e Vídeo para dispositivos Apple;",
+    "Correção na ordem de exibição das questões nos Simulados em Questões Comentadas da primeira fase;",
+    "Correção de inconsistência ao avançar as questões em Simulados Online;",
+    "Correção na ordem das metas diárias no módulo de Smart Coach;",
+    "Correção da contagem regressiva no módulo de Simulados Online;",
+    "Correção de erro ao fazer login com a conta Apple;",
+    "Correção na seleção dos assuntos em Questões Comentadas da primeira fase;",
+    "Correção ao procurar questões relacionadas a um Artigo;",
+    "Correção no horário apresentado ao finalizar um Simulado Online;",
+    "Adaptação do fluxo inicial para conexões lentas."
+  ],
+  "8.0.0": [
+    "Novo app OAB de Bolso disponível!",
+    "Aviso inicial das novas atualizações;",
+    "Atualizações de segurança adicionadas;",
+    "Correção nas datas do módulo de artigos;",
+    "Correção da disposição dos modais na Home;",
+    "Correção no carregamento nas Metas Diárias Individuais;",
+    "Correção do horário nos Simulados Online;",
+    "Correção dos links internos em Smart Coach e Materiais Complementares."
+  ]
+}
