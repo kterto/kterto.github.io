@@ -1,4 +1,14 @@
 {
+  "8.17.0": [
+    "Adição do mmódulo de respostas de um simulado em planos de estudo;",
+    "Correção do módulo de questões em simulados online;",
+    "Correções de bugs."
+  ],
+  "8.16.0": [
+    "Adição dos filtros de respostas de questões no modo offline (apenas com internet);",
+    "Adição do deeplink para o módulo de Simulados online;",
+    "Adição do deeplink para o módulo de Simulados passados."
+  ],
   "8.15.0": [
     "Adição do módulo de performance"
   ],
